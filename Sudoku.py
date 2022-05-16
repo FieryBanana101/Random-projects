@@ -1,4 +1,3 @@
-# Class Atribute, inheritance, Class Method, Super(), Static method you dont need to make instance of an object
 
 sudoku = [
     [0, 0, 0, 0, 0, 0, 0, 0, 0],
