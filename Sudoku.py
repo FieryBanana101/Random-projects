@@ -68,11 +68,6 @@ def solve(data: list):
         print_result(data)
     # UnboundLocalError will only happen if sudoku is solved (happen because y,x is unassigned),
 
-
-# so if sudoku is solved print the result
-# this is the first time i ever encounter an error which instead give me an advantage lol
-# I have a lot of problem doing the recursion, so this is the best i've got, idk if it's optimal
-
 i = 0
 
 while i < 9:
